@@ -1,8 +1,6 @@
 name: IPTV-Docker
 
-on:
-  push:
-    branches: [ "main" ]
+on: [push]
 
 env:
   APP_NAME: allinone
